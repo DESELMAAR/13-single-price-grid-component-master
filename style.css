@@ -100,7 +100,7 @@ body{
   background-color: var(--Bright-Yellow);
   font-weight: 700;
   color: var(--Light-Gray);
-
+  cursor:pointer;
 }
 
 .down-right{
