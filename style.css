@@ -31,7 +31,7 @@ body{
   font-family: var(--font);
   background-color: var(--Light-Gray);
   font-size: 16px;
-  padding-top: 5em;
+  padding-top: 7em;
   }
   .container{
     max-width: 650px;
